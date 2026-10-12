@@ -1,2 +1,7 @@
 # Customer_Behavior
-Project Depicts customer shopping behavior using a csv file data cleaning is done in python , business question answered and badhboard creation and report.
+Analysis of 3,900 customer purchases using Python, SQL and Power BI: revenue, top products and customer segments.
+data-analysis
+python
+pandas
+sql
+power-bi
